@@ -1,4 +1,4 @@
-# boilerplate
+# vuex
 
 ## Project setup
 ```
